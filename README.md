@@ -1,12 +1,12 @@
 # Project Title: Customer Personality Analysis using Machine Learning
 
-### 📖 Project Overview
+## 📖 Project Overview
 Customer Personality Analysis focuses on understanding customers’ behavior, preferences, and patterns using data.  
 This project uses real customer data to perform **exploratory data analysis** and **machine learning techniques** to segment customers into meaningful groups and extract insights for better business decisions.:contentReference[oaicite:1]{index=1}
 
 ---
 
-### Problem Statement
+## Problem Statement
 Businesses often struggle to know exactly **who their customers are and what they prefer**. Without this insight:
 - Marketing campaigns may be inefficient  
 - Targeting the right audience becomes difficult  
@@ -18,7 +18,7 @@ This project aims to solve this by performing data analysis and segmentation to 
 
 ---
 
-### Solution Approach
+## Solution Approach
 To extract valuable insights, the following pipeline was applied:
 1. Data Loading and Cleaning  
 2. Exploratory Data Analysis (EDA)  
@@ -30,7 +30,7 @@ Clustering helps divide customers into groups with similar traits. Common techni
 
 ---
 
-### Dataset Description
+## Dataset Description
 The dataset used in this project includes various customer features such as:
 - Demographic details (Age, Education, Marital Status)  
 - Income, Family Size  
@@ -41,7 +41,7 @@ This dataset was sourced from Kaggle and provides a rich set of features for ana
 
 ---
 
-### Tools & Technologies Used
+## Tools & Technologies Used
 - Python  
 - Pandas & NumPy  
 - Matplotlib & Seaborn  
@@ -52,7 +52,7 @@ These tools make data processing, visualization, and model training efficient an
 
 ---
 
-### Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 EDA was performed to:
 - Understand the structure and distribution of data
 - Identify patterns and correlations
@@ -62,7 +62,7 @@ Through visualizations and statistical summaries, key customer attributes were e
 
 ---
 
-### Machine Learning Technique
+## Machine Learning Technique
 ### Clustering Algorithm
 This project applies clustering techniques such as:
 - **K-Means Clustering**
@@ -71,7 +71,7 @@ Clustering groups customers with similar characteristics, revealing natural segm
 
 ---
 
-### Insights & Segment Analysis
+## Insights & Segment Analysis
 Key insights from the analysis typically include:
 - Identification of distinct customer groups based on spending habits, income, and behavior  
 - Certain customer segments are high spenders with stable income  
@@ -82,7 +82,7 @@ These segment insights help build **targeted marketing campaigns** and **persona
 
 ---
 
-### How to Run the Project
+## How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/Dineshshahi7/Customer_Personality_Analysis.git
